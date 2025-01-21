@@ -1,11 +1,11 @@
 # Real-Time Speech Language Detection and Transcription
 
 ## Table of Contents 
-- [Overview](#overview) <p><a href="https://www.buymeacoffee.com/avineshlko"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="avineshlko" /></a></p>
+- [Overview](#overview) 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Structure](#codeStructure)
+- [Code Structure](#code-structure)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
 - [License](#license)
@@ -36,6 +36,8 @@ This project provides a Python-based application that performs real-time speech-
 1. Clone the repository:
    ```bash
    git clone https://github.com/avinesh-masih/Real-Time-Speech-Language-Detection-and-Transcription.git
+   ```
+
 
 
 2. Install the required dependencies:
