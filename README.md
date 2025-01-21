@@ -55,7 +55,7 @@ This project provides a Python-based application that performs real-time speech-
 1. Run the application:
 
    ```bash
-   python script_name.py
+   python app.py
    ```
 
 2. Use the buttons in the GUI:
