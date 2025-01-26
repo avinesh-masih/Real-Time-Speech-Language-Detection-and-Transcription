@@ -121,6 +121,4 @@ This project is protected under a custom license. Unauthorized use, modification
 
 For inquiries or permissions or contribute to this project, please reach out via:
 
-- **Portfolio:** [AVINESH MASIH](https://avinesh-masih.github.io/)
-- **Email:** [skmasih11@gmail.com](mailto:skmasih11@gmail.com)  
-- **LinkedIn:** [avineshlko](https://www.linkedin.com/in/avineshlko/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avineshlko/)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://avinesh-masih.github.io/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmasih11@gmail.com)
